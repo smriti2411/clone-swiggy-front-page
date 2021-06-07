@@ -279,7 +279,7 @@ html,body {
 
 @media only screen and (max-width:700px){
     .sign{
-        padding-left: 8rem;
+        padding-left: 6.5rem;
         margin-top: -1.5rem;
     }
     #logo{
@@ -325,7 +325,7 @@ html,body {
         margin-top: 0rem;
         padding: 6px;
         font-size: 6px;
-        width: 9rem;
+        width: 8rem;
         margin-bottom: 2rem;
     }
     .find input[type=text]:hover{
@@ -347,7 +347,7 @@ html,body {
     
     .popular li{
         margin-top:0rem;
-        font-size: 5px;
+        font-size: 4px;
     }
     .middle img{
         
@@ -379,20 +379,20 @@ html,body {
     }
     .p1{
         height: 10rem;
-        width: 7.5rem;
+        width: 6rem;
         margin-top: -8.95rem;
         letter-spacing: 0rem;
         margin-left: 12rem;
     }
     .p2{
         height: 10rem;
-        width: 7.5rem;
+        width: 6rem;
         margin-top: -6rem;
-        margin-left: 19rem;
+        margin-left: 17.6rem;
         letter-spacing: 0rem;
     }
     .buttom{
-        height:36rem;
+        height:auto;
         margin-top: 4rem;
     }
     .col-1 h4{
