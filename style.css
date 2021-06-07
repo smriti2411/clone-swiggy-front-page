@@ -277,7 +277,7 @@ html,body {
     margin-left: -8rem;
     }
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:768px){
     .sign{
         padding-left: 6.5rem;
         margin-top: -1.5rem;
@@ -452,5 +452,46 @@ html,body {
     .icons img{
         width: 8px;
         margin-left: -4.5rem;
+        }
+}
+@media only screen and (max-width:360px)
+{
+    .find input[type=text] {
+        margin-top: 0rem;
+        padding: 6px;
+        font-size: 6px;
+        width: 7rem;
+        margin-bottom: 2rem;
+    }
+    .find input[type=text]:hover{
+        border: 0.1px solid #fc8019;
+    } 
+    .find button {
+        margin-top: 0rem;
+        width: 3rem;
+        padding: 6.5px;
+        font-size: 4px;
+        margin-bottom: 1rem;
+    }
+    .food img{
+        margin-top: -16%;
+    }
+    .p1{
+        height: 9rem;
+        width: 5rem;
+    }
+    .p2{
+        height: 9rem;
+        width: 5rem;
+        margin-top: -7rem;
+        margin-left: 17.4rem;
+    }
+    .buttom{
+        height:auto;
+        margin-top: 2rem;
+    }
+    .icons img{
+        width: 8px;
+        margin-left: -5rem;
         }
 }
