@@ -383,6 +383,7 @@ html,body {
         margin-top: -8.95rem;
         letter-spacing: 0rem;
         margin-left: 12rem;
+        justify-content: space-between;
     }
     .p2{
         height: 10rem;
@@ -390,6 +391,7 @@ html,body {
         margin-top: -6rem;
         margin-left: 17.6rem;
         letter-spacing: 0rem;
+        justify-content: space-between;
     }
     .buttom{
         height:auto;
