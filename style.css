@@ -160,6 +160,7 @@ html,body {
 }
 .middle img{
     width: 100%;
+    height: auto;
     margin: auto;
 }
 .middle1{
@@ -350,10 +351,11 @@ html,body {
         font-size: 4px;
     }
     .middle img{
-        
         width: 100%;
+        height: auto;
         margin: auto;
     }
+    
     .mid{
         width: auto;
         overflow-x:hidden;
